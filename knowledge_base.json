@@ -1,0 +1,100 @@
+{
+  "questions": [
+    {
+      "question": "hey there!",
+      "answer": "hiya! how can i help you with?"
+    },
+    {
+      "question": "hey",
+      "answer": "hello there!"
+    },
+    {
+      "question": "hello",
+      "answer": "hey there!"
+    },
+    {
+      "question": "what's your name?",
+      "answer": "I'm sorry as chatbot i don't have any name(:"
+    },
+    {
+      "question": "can i call you heer?",
+      "answer": "you can call me whatever you please, but i'm not able to memorize names):"
+    },
+    {
+      "question": "bushra",
+      "answer": "oh! hey ma'am! how can i help?(: "
+    },
+    {
+      "question": "shafaque",
+      "answer": "Oh! hey ma'am! how can i help?(:"
+    },
+    {
+      "question": "",
+      "answer": "i think you wanted to say something say it again, i'm here(;"
+    },
+    {
+      "question": "omer",
+      "answer": "Hello sir! how are you doing today?(:"
+    },
+    {
+      "question": "i'm good",
+      "answer": "I'm glade to hear that(:"
+    },
+    {
+      "question": "i'm fine",
+      "answer": "I'm glade to hear that(:"
+    },
+    {
+      "question": "i'm omer farooque",
+      "answer": "Hello sir! how are you doing today?(:"
+    },
+    {
+      "question": "kirtan",
+      "answer": "i'm sorry but i'm not able to memorize that yet"
+    },
+    {
+      "question": "how are you doing?",
+      "answer": "i'm good thanks for asking(:"
+    },
+    {
+      "question": "i am ali usama ",
+      "answer": "Hello sir! how are you doing today?(:"
+    },
+    {
+      "question": "asalam alaikum",
+      "answer": "wa"
+    },
+    {
+      "question": "i'm not doing so well",
+      "answer": "i understand thing can be tough sometime):, but let's never lose hope(:"
+    },
+    {
+      "question": "doing bad",
+      "answer": "i understand things can be tough sometime):, but let's never lose hope(:"
+    },
+    {
+      "question": "time?",
+      "answer": "i'm sorry but i don't have any access to time):"
+    },
+    {
+      "question": "what is time",
+      "answer": "what time is it?"
+    },
+    {
+      "question": "& \"C:/Users/wamiq computers/AppData/Local/Microsoft/WindowsApps/python3.11.exe\" e:/there!/chatbot/bot.py",
+      "answer": "& \"C:/Users/wamiq computers/AppData/Local/Microsoft/WindowsApps/python3.11.exe\" e:/there!/chatbot/bot.py"
+    },
+    {
+      "question": "is it day or night",
+      "answer": "i'm sorry i can't help you with that..."
+    },
+    {
+      "question": "What does Error 404 mean?",
+      "answer": "Error 404 means the page wasn't found. This usually happens if the URL is mistyped or the page was moved. Pro-tip: Check your routing logic in the backend. Learn more here: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+    },
+    {
+      "question": "My login isn't working.",
+      "answer": "I can help with that! Is it giving you an 'Invalid Credentials' error or a 'Timeout' error?"
+    }
+  ]
+}
